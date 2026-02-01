@@ -1,7 +1,7 @@
-# Minecraft Automated Agent (Forge 1.8.9)
+# Minecraft Block Auto-Navigator (Forge 1.8.9)
 
-This project is an experimental **automated agent** built for Minecraft minigames such as **Block Party / Pixel Party**.  
-It explores real-time decision-making in a live, event-driven environment under strict tick and latency constraints.
+This project is an experimental **algorithm** built initially for Minecraft minigames such as **Block Party / Pixel Party**.  
+It explores real-time decision-making in a live, environment under strict tick and latency constraints.
 
 The project began as an accessibility-focused navigation aid and gradually evolved into a more general automated system for experimentation and self-challenge.
 
