@@ -1,0 +1,12 @@
+[{
+  "modid": "blockpartyhelper",
+  "name": "Block Party Helper",
+  "description": "Helps you find blocks in Hypixel Block Party",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["You"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
