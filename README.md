@@ -102,9 +102,9 @@ These are intended for:
 - private servers
 
 - educational use
-- 
 
-If you are banned or penalized for using this mod on public servers, that responsibility is yours.
+
+[Download here](https://github.com/MystifiedMedal/minecraft-automated-agent/releases/download/jar/BlockPartyHelper-1.93.jar)
 
 
 ### Testing Environment:
@@ -114,3 +114,4 @@ Primarily tested on private servers
 Also tested on a friend's server with explicit permission
 
 Not designed for use on competitive public servers without consent
+If you are banned or penalized for using this mod on public servers, that responsibility is yours.
